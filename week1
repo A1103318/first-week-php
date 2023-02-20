@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <script>
+            alert("you are rockrolled!!")
+        </script>
+        <title>got u</title>
+    </head>
+    <body>
+        <img src="rick.jpg" width="1250">
+            <video src="rick.mp4" controls width="1250"></video>
+    </body>
+</html>
