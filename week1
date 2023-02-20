@@ -1,12 +1,17 @@
+<!DOCTYPE html>
 <html>
     <head>
+		<meta charset="UTF-8">
         <script>
             alert("you are rockrolled!!")
         </script>
         <title>got u</title>
     </head>
     <body>
-        <img src="rick.jpg" width="1250">
-            <video src="rick.mp4" controls width="1250"></video>
+		<?php echo "Hello, World\n"; ?>
+        <center>
+            <img src="https://memeprod.ap-south-1.linodeobjects.com/user-template/e824f53652754e144e696c862203bf43.png" width="1250" height="570">
+            <a href="https://www.youtube.com/watch?v=dMTy6C4UiQ4"><button>想聽自己點</button></a>
+        </center>
     </body>
 </html>
